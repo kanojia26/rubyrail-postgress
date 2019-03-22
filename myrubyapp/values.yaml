@@ -20,7 +20,7 @@ ingress:
     # kubernetes.io/tls-acme: "true"
   path: /
   hosts:
-    - ironman.ewalletnonprod.auto.pink.cat
+    - ironman.example.com
   tls: []
   #  - secretName: chart-example-tls
   #    hosts:
